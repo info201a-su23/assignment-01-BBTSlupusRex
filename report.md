@@ -2,7 +2,7 @@
 ## By Shiyun Chang
 *7/12/2023*
 ## Data Viz Summary
-![alt text](C:\Users\krbui\Documents\info201 stuff\assignment-01-BBTSlupusRex\food)
+![alt text](food.jpg)
 ####  This image tells about how global population grow in past decades, it shows peoples diet changes, amount of calories that consumed by people, which country waste food the most. It also tells how the rate of agricultural support and meat demand change in the global wide range.
 >“Is it clear to a general audience that what they see is the work of professionals who actively shape data to support a cause, and not the product of automated processes?” (Data Feminism, Chapter 3.)
 ## Data Viz Biography
